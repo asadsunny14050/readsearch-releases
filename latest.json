@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial private release",
+  "pub_date": "2026-04-05T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/asadsunny14050/readsearch-releases/releases/download/v0.1.0/readsearch_0.1.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNm03WmZiTmtQZFp3THI5ZWtpTDlRMm9HQlpyMlo1SmRxdE9aY3VMZFdtR05xUmRaWDh1VVl6WjhEbmRuVnRDYWFTMzBuYUoxenovc1R1QTBGMHBxbE9QUUlBbllrZUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzUzOTM3CWZpbGU6cmVhZHNlYXJjaF8wLjEuMF94NjQtc2V0dXAuZXhlCldKelZHRkNoOXcwVUVtN2R3ZUY5K3A4SWpCek9ZNXk1QXM5czlCUFRxYVBsUEl3Tk43NTZHVlpFemlPdjd4a0ZEU1pDVlVmNTU1cVYzZ200dy9lWUJBPT0K"
+    }
+  }
+}
