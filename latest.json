@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "second private release",
+  "version": "0.1.2",
+  "notes": "third private release",
   "pub_date": "2026-04-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/asadsunny14050/readsearch-releases/releases/download/v0.1.1/readsearch_0.1.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNm03WmZiTmtQZFozVzVtbTZ2MEc4YmNRaXg3VE5NK3dIT0xmTEUxcHVPUURNMFl5QkdzTmZKUmNta2Zzc2gySzJMUkg4Vkx4d1FZbUptNVp2ZUx0MUxNR2F3bFpFM0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzU3NDIxCWZpbGU6cmVhZHNlYXJjaF8wLjEuMV94NjQtc2V0dXAuZXhlCkdXYmQvdnovUEJBNUt0YytCMGl1MXNjWitXRnEwdXFaR1doZFRCTWFTWWtTb245NVNlZXU4b3N5bEgzQ3JpeVE3ZGpOMndEOGtyOWp0Z3BCandjMUF3PT0K"
+      "url": "https://github.com/asadsunny14050/readsearch-releases/releases/download/v0.1.2/readsearch_0.1.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNm03WmZiTmtQZFRvSDViQWF5cFFCMDNmNEpXcWNrRVBxd2Q0MFJ4Q01jblM3ODE0T3gyTlNOYXVkdHBSNTl4WWJmU3h2V2pua0RJWHFlbEhyMk9KMnVRa2lXMjJFSFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzU5NDExCWZpbGU6cmVhZHNlYXJjaF8wLjEuMl94NjQtc2V0dXAuZXhlCjZ1RTM1UWF1MEdNR0VmNXVuOFVLTlpNcWZPRVpBRXFMWmF6c2pPcGI3K1JCWHpGS2M2ZlRPc2xWTnpFb2RHNEZORzBYUmcwY2drRFJJRmRvRGc5UER3PT0K"
     }
   }
 }
